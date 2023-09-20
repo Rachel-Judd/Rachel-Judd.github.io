@@ -244,6 +244,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-01 p {
      font-size: 30px;
+      font:   font-family: Helvetica
 }
 
 </style>
